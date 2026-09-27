@@ -4,3 +4,4 @@ Welcome Git
 1. Profile view
 2. Sign up
 3. Login
+4. Add info
