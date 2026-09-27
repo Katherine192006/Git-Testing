@@ -2,4 +2,5 @@ Hello Git
 Welcome Git 
 
 1. Profile view
-2. Course View
+2. Sign up
+3. Login
